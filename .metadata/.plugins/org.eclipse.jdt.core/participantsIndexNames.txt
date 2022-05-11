@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\tauri\Documents\Haaga-Helia kurssit\Ohjelmointi 2\Viikko 7\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\607804562.index
+\Viikko7\src\main\java
